@@ -1,0 +1,14 @@
+{
+    "name": "admin/primeira_aulaphp",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PrimeiraAulaphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "v"
+        }
+    ],
+    "require": {}
+}
